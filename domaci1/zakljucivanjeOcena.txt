@@ -4,3 +4,4 @@ unese ocene razmaknute zarezom iz predmeta:
 a zatim pritiskom na dugme PROSEK da se dobije 
 prosecna ocena za svaki pojedinacni predmet kao 
 i prosek sva tri predmeta.
+Nova orimena
